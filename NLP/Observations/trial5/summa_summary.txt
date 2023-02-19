@@ -1,0 +1,28 @@
+While Star Wars might be set in a galaxy far, far away, the reality of having machines talk and respond to us in a humanlike manner is already a reality which keeps getting more and more realistic with every passing day.
+What is NLP?
+Natural Language Processing, or NLP, refers to the branch of artificial intelligence that gives the machines the ability to read, understand and derive meaning from human languages.
+NLP combines the field of linguistics and computer science to decipher language structure and guidelines and to make models which can comprehend, break down and separate significant details from text and speech.
+This data is extremely useful in understanding human behavior and customer habits.
+Data analysts and machine learning experts utilize this data to give machines the ability to mimic human linguistic behavior.
+While NLP seems really cool, yet a cutting edge and complicated technology concept, it is actually pretty easy to learn.
+You start off with a document or an article.
+To make your algorithm understand what is going on in it, you need to process it into a form which is easily comprehensible by the machine.
+You start off by performing segmentation, which is to break the entire document down into its constituent sentences.
+For the algorithm to understand these sentences, we get the words in a sentence and to explain them individually to our algorithm.
+So we break down our sentence into its constituent words and store them.
+This is called tokenizing, where each word is called a token.
+We can make the learning process faster by getting rid of nonessential words, which do not add much meaning to our statement and are just there to make our statement sound more cohesive.
+These words such as are and the are called stop words.
+Now that we have the basic form of our document, we need to explain it to our machine.
+We first start off by explaining that some words like skipping, skips, skipped are the same word with added prefixes and suffixes.
+This is called stemming.
+We also identify the base words for different word tense, mood, gender, etc.
+This is called lematization, stemming from the base word lemma.
+Now we explain the concept of nouns, verbs, articles, and other parts of speech to the machine by adding these tags to our words.
+This is called part of speech tagging.
+This is called named entity tagging.
+Once we have our base words and tags, we use a machine learning algorithm like Naive Bays to teach our model human sentiment and speech.
+At the end of the day, most of the techniques used in NLP are simple grammar techniques that we have been taught in school.
+Here is a question for you which of these NLP techniques is used to obtain words from sentences?
+If you want to learn more about NLP, you can check out Simplylearn's Postgraduate Program in AI and Machine Learning in collaboration with IBM.
+That brings us to the end of this video on NLP.

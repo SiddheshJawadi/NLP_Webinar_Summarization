@@ -1,0 +1,17 @@
+Trees are made up of nodes and edges.
+Another term used in trees are the leaf nodes.
+So main property of this tree is that all the nodes in this tree can have at most two child nodes.
+That means any node of this binary tree can have zero, one or two children, since each node has only two children.
+So in this example we can see that this is a binary tree as all the nodes have maximum of only two children.
+Since all the nodes in this tree have maximum of two children, as we can see that eight has only two children, five and four five has two children, nine and seven, seven has two children, one and twelve and twelve has only one child, that is two.
+So node in this tree has more than two children.
+A binary tree is represented by a pointer pointing towards the root node of the tree.
+So in C it is simply we'll make a structure node and this would be the data part of the type integer and other two will be the pointer to the left child and the right child.
+Now this code is to create a new node in binary tree.
+So now in the second statement we are putting the data to be stored in the tree in the data part of the node and in these two statements, and in these two statements it is initializing the right and the left child of the node as null.
+And the left side and the right side of the node are initialized by null.
+So as we can see, this will return a node having value as one and it's left side and right side as null.
+As we can see here it is depicted we will get a tree who has a single node in it and its value is one and both its left child and right child are pointing towards null because it is the only node.
+Only one node is present in this tree.
+So now the left child of root will point towards this new node.
+We put the value three as the right child of the root node.
